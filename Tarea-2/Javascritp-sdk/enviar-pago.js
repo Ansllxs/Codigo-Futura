@@ -124,7 +124,7 @@ async function enviarPagosMultiples() {
       console.log(`  🔗 Hash: ${resultado.hash}`);
     } else {
       console.log(`  ❌ Estado: FALLIDA`);
-      console.log(`  ⚠️  Error: ${resultado.error}`);
+      console.log(`  ❌  Error: ${resultado.error}`);
     }
   });
 
