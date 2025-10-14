@@ -11,7 +11,7 @@
 - Carpeta de recursos con glosario, links y soluciones a errores comunes
 
 
-## 📁🌸Estructura del proyecto
+## 📁🌸 Estructura del proyecto
 
 ```text
 Codigo-Futura/
@@ -35,10 +35,7 @@ Codigo-Futura/
    ├─ troubleshooting.md
    ├─ glosario.md
    └─ links-utiles.md
-
-
-
-
+```
 
 ## 🗓️ Ruta de aprendizaje (checklist)
 
