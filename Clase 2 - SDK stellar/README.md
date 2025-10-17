@@ -1,4 +1,4 @@
-# Síntesis — Clase 2: Fundamentos de Programación en Stellar 🦈
+# Clase 2 — SDK stellar 🦈
 
 > En esta sesión trabajaste con el SDK de JavaScript y la CLI de Stellar para **crear cuentas**, **enviar pagos** y **consultar datos on-chain**. Aquí queda todo listo para pegar como `README.md`.
 
