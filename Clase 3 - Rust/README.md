@@ -1,2 +1,2 @@
-## Clase #4 codigo futura - Rust avanzado
+## Clase 3 - Introduccion a Rust
 
